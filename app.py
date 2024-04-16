@@ -12,8 +12,8 @@ INDEX = '''
             <h1>BIN CHK API!</h1>
             <h3>Stable bin Database</h3>
             <h3>Example to use: https://binchk-api.vercel.app/bin=510805<h3>
-            <h6>©Copyright by <a href="https://t.me/Xbinner69">Nitin</a></h6>
-            <h6>Source code: <a href="https://github.com/xbinner18/binchk-api">github.com/Nitin181/binchk-api</a></h6>
+            <h6>©Copyright by <a href="https://t.me/Xbinner2">Nitin</a></h6>
+            <h6>Source code: <a href="https://github.com/xbinner18/binchk-api">github.com/Xbinner18/binchk-api</a></h6>
         </body>
     </html>
     '''
